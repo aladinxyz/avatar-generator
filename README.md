@@ -1,6 +1,5 @@
 ## Avataaars generator
 
-You can see it here: http://getavataaars.com
 
 ### Run the server
 
