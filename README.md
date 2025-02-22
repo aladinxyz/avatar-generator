@@ -1,4 +1,4 @@
-## Avataaars generator
+## Avatars generator
 
 
 ### Run the server
